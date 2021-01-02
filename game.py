@@ -3,7 +3,7 @@ import winsound
 
 # Setup game windows
 wn = turtle.Screen()
-wn.title("Pong")
+wn.title("Pong Game")
 wn.bgcolor("black")
 wn.setup(width=800, height=800)
 wn.tracer(0)
